@@ -1,0 +1,12 @@
+names:
+- Barrier
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: barrier_detection-5mhjn
+  url: https://universe.roboflow.com/jiraphatthanasuttiwat/barrier_detection-5mhjn/dataset/4
+  version: 4
+  workspace: jiraphatthanasuttiwat
+test: ../test/images
+train: ../train/images
+val: ../valid/images

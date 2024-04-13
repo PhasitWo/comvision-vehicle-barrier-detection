@@ -1,0 +1,8 @@
+{
+    "model_vehicle": {
+        "conf": 0.4
+    },
+    "model_barrier": {
+        "conf": 0.15
+    }
+}

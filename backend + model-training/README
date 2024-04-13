@@ -1,0 +1,10 @@
+หลัง run load_dataset.py ให้แปลงให้มีไฟล์ structure แบบนี้
+root
+|
+|--main.py
+|--data.yaml (เอาตัวที่อยู่ใน repo นี้อยู่แล้ว)
+|--datasets/
+    |
+    |--test/
+    |--train/
+    |--valid/
